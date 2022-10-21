@@ -12,7 +12,7 @@ Hamza Naveed,Male,954,459,2.8,Blue,May,58
 Fatima Naqvi ,Female,398,355,3.06,Red,October ,60
 Seerat Salman,Male,397,415,3.1,Black,September,65
 Tayyab Ahmad,Male,336,422,3.05,Green,December,85
-Muhammad  Zain,Male,372,401,2.79,Gray and Brown,April,72
+Muhammad  Zain,Male,372,401,2.79,"Gray, Brown",April,72
 Muhammad Subhan Khan ,Male,412,419,3.53,Yellow,January ,90
 Muhammad Adeel,Male,410,365,3.3,Green,November ,90
 Ali Mohsin,Male,452,832,3.26,Black,August,54
@@ -37,15 +37,15 @@ Muhammad Shahnoor ,Male,326,379,2.69,Black ,June ,80
 Sana Imran,Female,398,414,3.2,Navy Blue,March,60
 Sohaib hasan,Male,400,372,2.62,Light Green,October ,64
 Minahil Sadiq ,Female,394,437,2.84,Red,February,88
-Muaz Ijaz,Male,390,816,2.7,BLACK,February,57
+Muaz Ijaz,Male,390,816,2.7,Black,February,57
 Muhammad Umar Asghar,Male,357,333,2.23,Black,October,62
 Muhammad Faizan,Male,335,370,2.7,black,march,68
 Muhammad Awais,Male,401,365,2.58,white,October,66
-Muhammad Haider Awan,Male,30600%,425,2.56,Blue,October,60
+Muhammad Haider Awan,Male,306,425,2.56,Blue,October,60
 Semal Saqib,Female,415,328,2.86,Black,October ,59
 Aleena Khan ,Female,424,277,3.12,Peach ,February,54
 Muhammad Abdul Mateen Alam,Male,345,390,2.93,Purple ,September,64
-Muhammad Ammar Khalid,Male,368/510,440,2.97,BLACK,August,72
+Muhammad Ammar Khalid,Male,368/510,440,2.97,Black,August,72
 Zeeshan Fiaz,Male,423,379,2.83,Orange,November ,68
 Osama Nadeem Khan ,Male,350,389,2.8,Dark blue,February,53
 Abdul Rauf,Male,438,339,2.98,Dark blue,October,78
@@ -58,7 +58,7 @@ Syeda Noor Zehra Naqvi,Female,428,420,3.05,Yellow,October,67
 Muhammad Shahmeer,Male,365,464,3.25,Navy Blue,March,64
 Abdul Rehman,Male,420,770,2.73,Black,March,72
 Hafiz Malahim Labib.,Male,390,430,3.24,Orange,May,54
-Umer Nadeem,Male,996,755 (total),3.12,Navy Blue,May,65
+Umer Nadeem,Male,996,755,3.12,Navy Blue,May,65
 Hamna Tariq Saleemi,Female,400,418,2.8,Black,October,62
 Abubakar,Male,402,345,2.71,Black,October ,77
 Zameet Khalid,Male,350,408,2.98,Light Green,March,90
@@ -66,7 +66,7 @@ Bashara Tehseen Liaqat,Female,368,396,2.16,Yellow,October ,62
 Muhammad Zafar Ijaz Khan,Male,421,430,2.7,Brown,August,64
 Muhammad Hammad Ejaz,Male,401,325,2.8,Light Green,May,52
 Yalmaz Ali,Male,395,473,3.44,Blue,March,85
-Sobel Bhatti,Male,369,791,3.19,BLACK,November,45
+Sobel Bhatti,Male,369,791,3.19,Black,November,45
 Muhammad Saif Ullah,Male,293,799,3.11,Black ,June,66
 Syed Muhammad Hamza Imran,Male,378,390,2.78,Red,October ,58
 Muhammad Al Fahad,Male,412,346,2.35,Peach ,May,54
@@ -74,7 +74,7 @@ Namatulla,Male,448,440,3.4,green,October ,88
 Syed Ali Raza Shah Bukhari,Male,293,817,2.84,Black ,January,78
 Ahsan Aijaz,Male,351,327,3,Navy Blue,July,65
 Dilawar Hussain,Male,379,400,2.62,Blue,Feburary,81
-Adnan safdar,Male,328,369,2.98,white,sep,55
+Adnan safdar,Male,328,369,2.98,white,september,55
 Abdul Hadi Khan,Male,315,368,3.23,White,July,98
 Hina,Female,410,350,2.9,Blue,August,67
 Hamza Javed Khan,Male,400,381,3.39,Blue,January ,78
@@ -93,7 +93,7 @@ Irtaza Mubarik,Male,318,848,2.6,Grey,November ,72
 Suleman Ahsan,Male,370,342,2.51,Red,October ,60
 Mohsin Nawaz,Male,376,900,2.92,Black,April,58
 Hamayoun Masroor,Male,900,856,3.16,Pink,September ,63
-Shadab Gull,Female,447,359,2.68,Gray and Brown,September,50
+Shadab Gull,Female,447,359,2.68,"Gray, Brown",September,50
 Muhammad Hashim,Male,392,919,3,black,February,97
 Salman Wasi Ahmad Khan ,Male,390,352,2.11,Blue,August,80
 Ghulam Mustafa Sheikh,Male,385,328,2.81,Yellow,October ,66
@@ -122,7 +122,7 @@ Aqsa Rafiq ,Female,423,394,3.12,Black,September,65
 Dil Muhammad,Male,351,380,2.66,Red,September ,52
 Rohaan Yousuf ,Male,414,325,2.52,Pink,November,65
 Syed Zain Raza,Male,394,436,2.8,Black,October ,45
-Mutyyab Ul Hassan Khan,Male,383,441,2.58,BLACK,October ,80
+Mutyyab Ul Hassan Khan,Male,383,441,2.58,Black,October ,80
 Muhammad Umair Tariq ,Male,402,407,3.45,Purple ,May,65
 Shakira Hafeez,Female,402,345,3.06,Blue,October,60
 Rohaan Farooq,Male,325,386,2.81,Black,August,47
