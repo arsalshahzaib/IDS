@@ -1,0 +1,19 @@
+Name:		Arsal Shahzaib Bin Mushtaq
+Reg #		SP20-BCS-109
+Course:		CSC461 – Introduction to Data Science
+Document:	Assignment – 4 
+
+
+
+            QUESTION 1
+1)	Number of instances:	80
+2)	Number of input attributes:	7
+3)	Number of possible values of output attributes:	2
+4)	There are four categorical input attributes, these are:
+    a)	Beard
+    b)	Hair length
+    c)	Scarf
+    d)	Eye color
+5)	Class ratio of Male VS Female is:
+    a)	Male:		46
+    b)	Female:		34
