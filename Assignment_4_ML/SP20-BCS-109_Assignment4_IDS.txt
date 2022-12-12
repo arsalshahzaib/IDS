@@ -24,5 +24,5 @@ Document:	Assignment – 4
     used, 3 instances were incorrecly classified as true and 3 instances were incorrectly classified as false with
     an accureacy of 77.78%. When the Multilayer Perceptron Classifier was used, 1 instance was incorrectly classified
     as true and 2 instances were incorrecly classified as true with an accuracy of 88.89%.
-    (The screenshots are there in the .docx file in the same directory)
+    (The screenshots are there in the .pdf file in the same directory)
 
