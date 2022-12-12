@@ -22,7 +22,12 @@ Document:	Assignment – 4
             QUESTION 2
 1)	In the RandomForestClassifier, no instances were incorrectly classified with an accuracy of 100%. When SVC was 
     used, 3 instances were incorrecly classified as true and 3 instances were incorrectly classified as false with
-    an accureacy of 77.78%. When the Multilayer Perceptron Classifier was used, 1 instance was incorrectly classified
+    an accuracy of 77.78%. When the Multilayer Perceptron Classifier was used, 1 instance was incorrectly classified
     as true and 2 instances were incorrecly classified as true with an accuracy of 88.89%.
     (The screenshots are there in the .pdf file in the same directory)
+
+2)  Yes, changing the train/test split from 67/33 to 80/20 did bring some major changes. The RandomForestClassifier is
+    giving the same 100% accuracy as before but the accuracy of SVC has increased from 77.78% to 81.25% as now only 2 
+    instances were incorrecly classified as true and only 1 instance was incorrecly classified as false. Then, in case
+    of the Multilayer Perceptron Classifier, no instances were incorrectly classified with an accuracy of 100%. 
 
