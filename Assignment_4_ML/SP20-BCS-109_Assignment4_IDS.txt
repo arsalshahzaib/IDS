@@ -31,7 +31,7 @@ Document:	Assignment – 4
     instances were incorrecly classified as true and only 1 instance was incorrecly classified as false. Then, in case
     of the Multilayer Perceptron Classifier, no instances were incorrectly classified with an accuracy of 100%. 
 
-3)  The two attributes i think that are the most "powerful" in the prediction task are Beard and Hair Length. Because these
-    both combined can actually predict the result better than the other attributes whole together without them.
+3)  The two attributes i think that are the most "powerful" in the prediction task are Beard and Hair Length. Because 
+    these both combined can actually predict the result better than the other attributes whole together without them.
 
 4)  
