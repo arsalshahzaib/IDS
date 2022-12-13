@@ -37,4 +37,5 @@ Document:	Assignment – 4
 4)  in RandomForestClassifier, no changes occurred even after removing the Height and Hair Length attributes. But some
     visible changes were there in the SVC and the Multilayer Perceptron Classifier. The screenshots are there in the
     .pdf file of how SVC accuracy was decreased 81.25% and the Multilayer Perceptron Classifier wasn't even able to 
-    recognise any females with the accuracy of 62.5%. 
+    recognise any single instance from the True Positive class with the accuracy of 62.5%. 
+
