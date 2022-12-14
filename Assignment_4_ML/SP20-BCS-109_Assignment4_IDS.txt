@@ -39,3 +39,10 @@ Document:	Assignment – 4
     .pdf file of how SVC accuracy was decreased 81.25% and the Multilayer Perceptron Classifier wasn't even able to 
     recognise any single instance from the True Positive class with the accuracy of 62.5%. 
 
+            QUESTION 4
+i added the following instances in the .csv file by myself:
+        80,124,no,short,46,no,brown,male
+        83,110,no,long,35,no,brown,female
+        85,130,yes,bald,48,no,black,male
+        78,111,no,medium,37,yes,green,female
+        86,135,no,short,49,no,brown,male

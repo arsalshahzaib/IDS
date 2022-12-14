@@ -1,4 +1,4 @@
-﻿height,weight,beard,hair_length,shoe_size,scarf,eye_color,gender
+height,weight,beard,hair_length,shoe_size,scarf,eye_color,gender
 71,176,yes,short,44,no,black,male
 68,165,no,bald,41,no,black,male
 62,132,no,medium,37,yes,blue,female
@@ -79,3 +79,8 @@
 67,119,yes,short,40,no,black,male
 70,190,yes,medium,43,no,gray,male
 62,142,yes,long,37,no,blue,female
+80,124,no,short,46,no,brown,male
+83,110,no,long,35,no,brown,female
+85,130,yes,bald,48,no,black,male
+78,111,no,medium,37,yes,green,female
+86,135,no,short,49,no,brown,male
