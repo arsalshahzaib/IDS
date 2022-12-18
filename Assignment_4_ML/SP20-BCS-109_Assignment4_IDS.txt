@@ -41,7 +41,10 @@ Document:	Assignment – 4
 
             
             QUESTION 4
-i added the following instances in the .csv file by myself:
+        Note: the train/test split used here is 67/33 and the results are included in the .pdf file in this repository
+        folder.
+    
+    -> i added the following instances in the .csv file by myself:
         80,124,no,short,46,no,brown,male
         83,110,no,long,35,no,brown,female
         85,130,yes,bald,48,no,black,male
